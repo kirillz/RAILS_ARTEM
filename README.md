@@ -7,7 +7,7 @@
 #### Уроки домашка к нему
 ---
 
-[Урок 1](https://github.com/kirillz/RAILS_ARTEM/Lesson 1/Course(Lesson1).pdf)
+(https://github.com/kirillz/RAILS_ARTEM/Lesson 1/Course(Lesson1).pdf)[Урок 1]
 
 [Домашка 1](https://github.com/kirillz/RAILS_ARTEM/Lesson 1/index.html)
 
