@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  max-width: 33.33%;
+  max-width: 50%;
   background: #00AAFF;
 }
 
@@ -45,5 +45,21 @@ h1,h2  {
   margin: 10px;
   padding: 20px;
   background: rgba(34, 35, 40, 1);
-  border-radius: 5%;
+  border-radius: 1%;
+}
+/* Table */
+
+#zp_table {
+  color: #00AAFF;
+
+}
+
+#zp_table td,th{
+  border: solid .1px;
+  border-color:green;
+  text-align: left;
+}
+.th-sm {
+  background-color: gray;
+  color: black;
 }
