@@ -6,7 +6,7 @@
 
 #### Уроки домашка к нему
 ---
-+  [Урок 1](https://kirillz.github.io/RAILS_ARTEM/Lesson1/Course(Lesson1).pdf) ([Что должно быть](https://kirillz.github.io/RAILS_ARTEM/Lesson1/img/example.jpg))
++  [Урок 1](https://kirillz.github.io/RAILS_ARTEM/Lesson1/Course(Lesson1).pdf) ([результат](https://kirillz.github.io/RAILS_ARTEM/Lesson1/img/example.jpg))
 
 +  [Домашка 1](https://kirillz.github.io/RAILS_ARTEM/Lesson1/index.html)
 ---
