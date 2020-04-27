@@ -11,4 +11,4 @@
 +  [Домашка 1](https://kirillz.github.io/kirillz/RAILS_ARTEM/Lesson1/index.html)
 ---
 +  [Урок 2](https://kirillz.github.io/RAILS_ARTEM/Lesson2/Course(Lesson2).pdf)
-+  [Домашка 2](https://kirillz.github.io/RAILS_ARTEM/Lesson2/index.html
++  [Домашка 2](https://kirillz.github.io/RAILS_ARTEM/Lesson2/index.html)
