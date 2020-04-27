@@ -6,8 +6,8 @@
 
 #### Уроки домашка к нему
 ---
-+  [Урок 1](https://github.com/kirillz/RAILS_ARTEM/Lesson 1/Course(Lesson1).pdf)
-+  [Домашка 1](https://github.com/kirillz/RAILS_ARTEM/Lesson 1/index.html)
+[Урок 1](https://github.com/kirillz/RAILS_ARTEM/Lesson 1/Course(Lesson1).pdf)
+[Домашка 1](https://github.com/kirillz/RAILS_ARTEM/Lesson 1/index.html)
 [link to Google!](http://google.com)
 ---
 +  [Урок 2](https://github.com/kirillz/RAILS_ARTEM/Lesson 2/Course(Lesson2).pdf)
