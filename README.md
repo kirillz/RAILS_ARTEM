@@ -7,13 +7,13 @@
 #### Уроки домашка к нему
 ---
 
-(https://github.com/kirillz/RAILS_ARTEM/Lesson 1/Course(Lesson1).pdf)[Урок 1]
+(https://github.com/kirillz/RAILS_ARTEM/Lesson1/Course(Lesson1).pdf)[Урок 1]
 
-[Домашка 1](https://github.com/kirillz/RAILS_ARTEM/Lesson 1/index.html)
+[Домашка 1](https://github.com/kirillz/RAILS_ARTEM/Lesson1/index.html)
 
 [link to Google!](http://google.com)
 
 ---
-+  [Урок 2](https://github.com/kirillz/RAILS_ARTEM/Lesson 2/Course(Lesson2).pdf)
-+  [Домашка 2](https://github.com/kirillz/RAILS_ARTEM/Lesson 2/index.html)
++  [Урок 2](https://github.com/kirillz/RAILS_ARTEM/Lesson2/Course(Lesson2).pdf)
++  [Домашка 2](https://github.com/kirillz/RAILS_ARTEM/Lesson2/index.html)
 ---
