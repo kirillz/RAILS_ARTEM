@@ -5,7 +5,7 @@
 
 
 ---
-+  [Урок 1](https://kirillz.github.io/RAILS_BLOG/Lesson1/Course(Lesson1).pdf) ([результат](https://kirillz.github.io/RAILS_BLOG/Lesson1/img/example.jpg))
++  [Урок 1](https://kirillz.github.io/RAILS_BLOG/Lesson1/Course(Lesson1).pdf) ([задание](https://kirillz.github.io/RAILS_BLOG/Lesson1/img/example.jpg))
 
 +  [Домашка 1](https://kirillz.github.io/RAILS_BLOG/Lesson1/index.html)
 ---
