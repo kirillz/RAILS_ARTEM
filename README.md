@@ -1,4 +1,4 @@
-# RAILS_ARTEM
+# RAILS_BLOG
 
 
 Курс по созданию блога на Ruby on Rails  + html и CSS
